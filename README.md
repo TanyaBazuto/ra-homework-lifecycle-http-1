@@ -7,6 +7,7 @@
 * New York,
 * Moscow,
 * London,
+* Paris,
 * Tokyo.
 
 ![Watches](./assets/watches.png)
